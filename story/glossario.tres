@@ -1,0 +1,17 @@
+[gd_resource type="Resource" script_class="DialogicGlossary" load_steps=2 format=3 uid="uid://b8b3uqmgt1r7s"]
+
+[ext_resource type="Script" path="res://addons/dialogic/Modules/Glossary/glossary_resource.gd" id="1_uavg6"]
+
+[resource]
+script = ExtResource("1_uavg6")
+entries = {
+"oggetto 1": {
+"case_sensitive": true,
+"color": Color(0.904297, 0.449913, 0.118336, 1),
+"name": "oggetto 1",
+"title": "Mio Oggetto"
+}
+}
+enabled = true
+_translation_id = ""
+_translation_keys = {}

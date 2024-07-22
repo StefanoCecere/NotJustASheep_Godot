@@ -1,5 +1,7 @@
+set {coins} = 4
 [background fade="0.0"]
 [style name="New_File"]
 join stefano 1
-stefano (New portrait): ciao
+stefano (New portrait): ciao.
 stefano: COme stai?
+jump timeline 2/

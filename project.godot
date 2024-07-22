@@ -21,13 +21,20 @@ Dialogic="*res://addons/dialogic/Core/DialogicGameHandler.gd"
 [dialogic]
 
 directories/dch_directory={
-"stefano": "res://story/character_1.dch"
+"bruno": "res://story/bruno.dch",
+"stefano": "res://story/stefano.dch"
 }
 directories/dtl_directory={
-"timeline": "res://story/timeline.dtl"
+"timeline": "res://story/timeline.dtl",
+"timeline 2": "res://story/timeline 2.dtl"
 }
 layout/style_list=["res://story/New_File.tres"]
 layout/default_style="res://story/New_File.tres"
+glossary/default_case_sensitive=true
+glossary/glossary_files=["res://story/glossario.tres"]
+variables={
+"coins": 0
+}
 
 [editor_plugins]
 
